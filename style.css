@@ -43,11 +43,15 @@ ul {
     padding-right: 10px;
 }
 
+.container {
+    padding: 10px;
+}
+
 .main-content {
     margin: 0 auto;
     width: 960px;
     background-color: #fff;
-    padding: 10px;
+    padding: 20px;
     border: solid 1px #4aaaa5;
 
 }
